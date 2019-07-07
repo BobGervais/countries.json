@@ -1,0 +1,1683 @@
+[{
+        "country": "Afghanistan",
+        "abbreviation": "AF",
+        "calling_code": "93",
+        "capital_city": "Kabul",
+        "continent": "Asia"
+    },
+    {
+        "country": "Albania",
+        "abbreviation": "AL",
+        "calling_code": "355",
+        "capital_city": "Tirana",
+        "continent": "Europe"
+    },
+    {
+        "country": "Algeria",
+        "abbreviation": "DZ",
+        "calling_code": "213",
+        "capital_city": "Alger",
+        "continent": "Africa"
+    },
+    {
+        "country": "American Samoa",
+        "abbreviation": "AS",
+        "calling_code": "1684",
+        "capital_city": "Fagatogo",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Andorra",
+        "abbreviation": "AD",
+        "calling_code": "376",
+        "capital_city": "Andorra la Vella",
+        "continent": "Europe"
+    },
+    {
+        "country": "Angola",
+        "abbreviation": "AO",
+        "calling_code": "244",
+        "capital_city": "Luanda",
+        "continent": "Africa"
+    },
+    {
+        "country": "Anguilla",
+        "abbreviation": "AI",
+        "calling_code": "1264",
+        "capital_city": "The Valley",
+        "continent": "North America"
+    },
+    {
+        "country": "Antarctica",
+        "abbreviation": "AQ",
+        "calling_code": null,
+        "continent": "Antarctica"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "abbreviation": "AG",
+        "calling_code": "1268",
+        "capital_city": "Saint John's",
+        "continent": "North America"
+    },
+    {
+        "country": "Argentina",
+        "abbreviation": "AR",
+        "calling_code": "54",
+        "capital_city": "Buenos Aires",
+        "continent": "South America"
+    },
+    {
+        "country": "Armenia",
+        "abbreviation": "AM",
+        "calling_code": "374",
+        "capital_city": "Yerevan",
+        "continent": "Asia"
+    },
+    {
+        "country": "Aruba",
+        "abbreviation": "AW",
+        "calling_code": "297",
+        "capital_city": "Oranjestad",
+        "continent": "North America"
+    },
+    {
+        "country": "Australia",
+        "abbreviation": "AU",
+        "calling_code": "61",
+        "capital_city": "Canberra",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Austria",
+        "abbreviation": "AT",
+        "calling_code": "43",
+        "capital_city": "Wien",
+        "continent": "Europe"
+    },
+    {
+        "country": "Azerbaijan",
+        "abbreviation": "AZ",
+        "calling_code": "994",
+        "capital_city": "Baku",
+        "continent": "Asia"
+    },
+    {
+        "country": "Bahamas",
+        "abbreviation": "BS",
+        "calling_code": "1242",
+        "capital_city": "Nassau",
+        "continent": "North America"
+    },
+    {
+        "country": "Bahrain",
+        "abbreviation": "BH",
+        "calling_code": "973",
+        "capital_city": "al-Manama",
+        "continent": "Asia"
+    },
+    {
+        "country": "Bangladesh",
+        "abbreviation": "BD",
+        "calling_code": "880",
+        "capital_city": "Dhaka",
+        "continent": "Asia"
+    },
+    {
+        "country": "Barbados",
+        "abbreviation": "BB",
+        "calling_code": "1246",
+        "capital_city": "Bridgetown",
+        "continent": "North America"
+    },
+    {
+        "country": "Belarus",
+        "abbreviation": "BY",
+        "calling_code": "375",
+        "capital_city": "Minsk",
+        "continent": "Europe"
+    },
+    {
+        "country": "Belgium",
+        "abbreviation": "BE",
+        "calling_code": "32",
+        "capital_city": "Bruxelles [Brussel]",
+        "continent": "Europe"
+    },
+    {
+        "country": "Belize",
+        "abbreviation": "BZ",
+        "calling_code": "501",
+        "capital_city": "Belmopan",
+        "continent": "North America"
+    },
+    {
+        "country": "Benin",
+        "abbreviation": "BJ",
+        "calling_code": "229",
+        "capital_city": "Porto-Novo",
+        "continent": "Africa"
+    },
+    {
+        "country": "Bermuda",
+        "abbreviation": "BM",
+        "calling_code": "1441",
+        "capital_city": "Hamilton",
+        "continent": "North America"
+    },
+    {
+        "country": "Bhutan",
+        "abbreviation": "BT",
+        "calling_code": "975",
+        "capital_city": "Thimphu",
+        "continent": "Asia"
+    },
+    {
+        "country": "Bolivia",
+        "abbreviation": "BO",
+        "calling_code": "591",
+        "capital_city": "La Paz",
+        "continent": "South America"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "abbreviation": "BA",
+        "calling_code": "387",
+        "capital_city": "Sarajevo",
+        "continent": "Europe"
+    },
+    {
+        "country": "Botswana",
+        "abbreviation": "BW",
+        "calling_code": "267",
+        "capital_city": "Gaborone",
+        "continent": "Africa"
+    },
+    {
+        "country": "Bouvet Island",
+        "abbreviation": "BV",
+        "calling_code": null,
+        "continent": "Antarctica"
+    },
+    {
+        "country": "Brazil",
+        "abbreviation": "BR",
+        "calling_code": "55",
+        "capital_city": "Brasília",
+        "continent": "South America"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "abbreviation": "IO",
+        "calling_code": "246",
+        "continent": "Africa"
+    },
+    {
+        "country": "Brunei",
+        "abbreviation": "BN",
+        "calling_code": null,
+        "capital_city": "Bandar Seri Begawan",
+        "continent": "Asia"
+    },
+    {
+        "country": "Bulgaria",
+        "abbreviation": "BG",
+        "calling_code": "359",
+        "capital_city": "Sofia",
+        "continent": "Europe"
+    },
+    {
+        "country": "Burkina Faso",
+        "abbreviation": "BF",
+        "calling_code": "226",
+        "capital_city": "Ouagadougou",
+        "continent": "Africa"
+    },
+    {
+        "country": "Burundi",
+        "abbreviation": "BI",
+        "calling_code": "257",
+        "capital_city": "Bujumbura",
+        "continent": "Africa"
+    },
+    {
+        "country": "Cambodia",
+        "abbreviation": "KH",
+        "calling_code": "855",
+        "capital_city": "Phnom Penh",
+        "continent": "Asia"
+    },
+    {
+        "country": "Cameroon",
+        "abbreviation": "CM",
+        "calling_code": "237",
+        "capital_city": "Yaound",
+        "continent": "Africa"
+    },
+    {
+        "country": "Canada",
+        "abbreviation": "CA",
+        "calling_code": "1",
+        "capital_city": "Ottawa",
+        "continent": "North America"
+    },
+    {
+        "country": "Cape Verde",
+        "abbreviation": "CV",
+        "calling_code": null,
+        "capital_city": "Praia",
+        "continent": "Africa"
+    },
+    {
+        "country": "Cayman Islands",
+        "abbreviation": "KY",
+        "calling_code": "1345",
+        "capital_city": "George Town",
+        "continent": "North America"
+    },
+    {
+        "country": "Central African Republic",
+        "abbreviation": "CF",
+        "calling_code": "236",
+        "capital_city": "Bangui",
+        "continent": "Africa"
+    },
+    {
+        "country": "Chad",
+        "abbreviation": "TD",
+        "calling_code": "235",
+        "capital_city": "N'Djam",
+        "continent": "Africa"
+    },
+    {
+        "country": "Chile",
+        "abbreviation": "CL",
+        "calling_code": "56",
+        "capital_city": "Santiago de Chile",
+        "continent": "South America"
+    },
+    {
+        "country": "China",
+        "abbreviation": "CN",
+        "calling_code": "86",
+        "capital_city": "Peking",
+        "continent": "Asia"
+    },
+    {
+        "country": "Christmas Island",
+        "abbreviation": "CX",
+        "calling_code": "61",
+        "capital_city": "Flying Fish Cove",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Cocos (Keeling) Islands",
+        "abbreviation": "CC",
+        "calling_code": "61",
+        "capital_city": "West Island",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Colombia",
+        "abbreviation": "CO",
+        "calling_code": "57",
+        "capital_city": "Santaf",
+        "continent": "South America"
+    },
+    {
+        "country": "Comoros",
+        "abbreviation": "KM",
+        "calling_code": "269",
+        "capital_city": "Moroni",
+        "continent": "Africa"
+    },
+    {
+        "country": "Congo",
+        "abbreviation": "CG",
+        "calling_code": "242",
+        "capital_city": "Brazzaville",
+        "continent": "Africa"
+    },
+    {
+        "country": "Cook Islands",
+        "abbreviation": "CK",
+        "calling_code": "682",
+        "capital_city": "Avarua",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Costa Rica",
+        "abbreviation": "CR",
+        "calling_code": "506",
+        "capital_city": "San Jos",
+        "continent": "North America"
+    },
+    {
+        "country": "Croatia",
+        "abbreviation": "HR",
+        "calling_code": "385",
+        "capital_city": "Zagreb",
+        "continent": "Europe"
+    },
+    {
+        "country": "Cuba",
+        "abbreviation": "CU",
+        "calling_code": "53",
+        "capital_city": "La Habana",
+        "continent": "North America"
+    },
+    {
+        "country": "Cyprus",
+        "abbreviation": "CY",
+        "calling_code": "357",
+        "capital_city": "Nicosia",
+        "continent": "Asia"
+    },
+    {
+        "country": "Czech Republic",
+        "abbreviation": "CZ",
+        "calling_code": "420",
+        "capital_city": "Praha",
+        "continent": "Europe"
+    },
+    {
+        "country": "Denmark",
+        "abbreviation": "DK",
+        "calling_code": "45",
+        "capital_city": "Copenhagen",
+        "continent": "Europe"
+    },
+    {
+        "country": "Djibouti",
+        "abbreviation": "DJ",
+        "calling_code": "253",
+        "capital_city": "Djibouti",
+        "continent": "Africa"
+    },
+    {
+        "country": "Dominica",
+        "abbreviation": "DM",
+        "calling_code": "1767",
+        "capital_city": "Roseau",
+        "continent": "North America"
+    },
+    {
+        "country": "Dominican Republic",
+        "abbreviation": "DO",
+        "calling_code": "1849",
+        "capital_city": "Santo Domingo de Guzm",
+        "continent": "North America"
+    },
+    {
+        "country": "East Timor",
+        "abbreviation": "TP",
+        "calling_code": "670",
+        "capital_city": "Dili",
+        "continent": "Asia"
+    },
+    {
+        "country": "Ecuador",
+        "abbreviation": "EC",
+        "calling_code": "593",
+        "capital_city": "Quito",
+        "continent": "South America"
+    },
+    {
+        "country": "Egypt",
+        "abbreviation": "EG",
+        "calling_code": "20",
+        "capital_city": "Cairo",
+        "continent": "Africa"
+    },
+    {
+        "country": "El Salvador",
+        "abbreviation": "SV",
+        "calling_code": "503",
+        "capital_city": "San Salvador",
+        "continent": "North America"
+    },
+    {
+        "country": "England",
+        "abbreviation": "UK",
+        "calling_code": "44",
+        "capital_city": "London"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "abbreviation": "GQ",
+        "calling_code": "240",
+        "capital_city": "Malabo",
+        "continent": "Africa"
+    },
+    {
+        "country": "Eritrea",
+        "abbreviation": "ER",
+        "calling_code": "291",
+        "capital_city": "Asmara",
+        "continent": "Africa"
+    },
+    {
+        "country": "Estonia",
+        "abbreviation": "EE",
+        "calling_code": "372",
+        "capital_city": "Tallinn",
+        "continent": "Europe"
+    },
+    {
+        "country": "Ethiopia",
+        "abbreviation": "ET",
+        "calling_code": "251",
+        "capital_city": "Addis Abeba",
+        "continent": "Africa"
+    },
+    {
+        "country": "Falkland Islands",
+        "abbreviation": "FK",
+        "calling_code": "500",
+        "capital_city": "Stanley",
+        "continent": "South America"
+    },
+    {
+        "country": "Faroe Islands",
+        "abbreviation": "FO",
+        "calling_code": "298",
+        "capital_city": "Tórshavn",
+        "continent": "Europe"
+    },
+    {
+        "country": "Fiji Islands",
+        "abbreviation": "FJ",
+        "calling_code": null,
+        "capital_city": "Suva",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Finland",
+        "abbreviation": "FI",
+        "calling_code": "358",
+        "capital_city": "Helsinki [Helsingfors]",
+        "continent": "Europe"
+    },
+    {
+        "country": "France",
+        "abbreviation": "FR",
+        "calling_code": "33",
+        "capital_city": "Paris",
+        "continent": "Europe"
+    },
+    {
+        "country": "French Guiana",
+        "abbreviation": "GF",
+        "calling_code": "594",
+        "capital_city": "Cayenne",
+        "continent": "South America"
+    },
+    {
+        "country": "French Polynesia",
+        "abbreviation": "PF",
+        "calling_code": "689",
+        "capital_city": "Papeete",
+        "continent": "Oceania"
+    },
+    {
+        "country": "French Southern territories",
+        "abbreviation": "TF",
+        "calling_code": null,
+        "continent": "Antarctica"
+    },
+    {
+        "country": "Gabon",
+        "abbreviation": "GA",
+        "calling_code": "241",
+        "capital_city": "Libreville",
+        "continent": "Africa"
+    },
+    {
+        "country": "Gambia",
+        "abbreviation": "GM",
+        "calling_code": "220",
+        "capital_city": "Banjul",
+        "continent": "Africa"
+    },
+    {
+        "country": "Georgia",
+        "abbreviation": "GE",
+        "calling_code": "995",
+        "capital_city": "Tbilisi",
+        "continent": "Asia"
+    },
+    {
+        "country": "Germany",
+        "abbreviation": "DE",
+        "calling_code": "49",
+        "capital_city": "Berlin",
+        "continent": "Europe"
+    },
+    {
+        "country": "Ghana",
+        "abbreviation": "GH",
+        "calling_code": "233",
+        "capital_city": "Accra",
+        "continent": "Africa"
+    },
+    {
+        "country": "Gibraltar",
+        "abbreviation": "GI",
+        "calling_code": "350",
+        "capital_city": "Gibraltar",
+        "continent": "Europe"
+    },
+    {
+        "country": "Greece",
+        "abbreviation": "GR",
+        "calling_code": "30",
+        "capital_city": "Athenai",
+        "continent": "Europe"
+    },
+    {
+        "country": "Greenland",
+        "abbreviation": "GL",
+        "calling_code": "299",
+        "capital_city": "Nuuk",
+        "continent": "North America"
+    },
+    {
+        "country": "Grenada",
+        "abbreviation": "GD",
+        "calling_code": "1473",
+        "capital_city": "Saint George's",
+        "continent": "North America"
+    },
+    {
+        "country": "Guadeloupe",
+        "abbreviation": "GP",
+        "calling_code": "590",
+        "capital_city": "Basse-Terre",
+        "continent": "North America"
+    },
+    {
+        "country": "Guam",
+        "abbreviation": "GU",
+        "calling_code": "1671",
+        "capital_city": "Aga",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Guatemala",
+        "abbreviation": "GT",
+        "calling_code": "502",
+        "capital_city": "Ciudad de Guatemala",
+        "continent": "North America"
+    },
+    {
+        "country": "Guinea",
+        "abbreviation": "GN",
+        "calling_code": "224",
+        "capital_city": "Conakry",
+        "continent": "Africa"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "abbreviation": "GW",
+        "calling_code": "245",
+        "capital_city": "Bissau",
+        "continent": "Africa"
+    },
+    {
+        "country": "Guyana",
+        "abbreviation": "GY",
+        "calling_code": "592",
+        "capital_city": "Georgetown",
+        "continent": "South America"
+    },
+    {
+        "country": "Haiti",
+        "abbreviation": "HT",
+        "calling_code": "509",
+        "capital_city": "Port-au-Prince",
+        "continent": "North America"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "abbreviation": "HM",
+        "calling_code": null,
+        "continent": "Antarctica"
+    },
+    {
+        "country": "Holy See (Vatican capital_city State)",
+        "abbreviation": "VA",
+        "calling_code": null,
+        "capital_city": "Citt",
+        "continent": "Europe"
+    },
+    {
+        "country": "Honduras",
+        "abbreviation": "HN",
+        "calling_code": "504",
+        "capital_city": "Tegucigalpa",
+        "continent": "North America"
+    },
+    {
+        "country": "Hong Kong",
+        "abbreviation": "HK",
+        "calling_code": "852",
+        "capital_city": "Victoria",
+        "continent": "Asia"
+    },
+    {
+        "country": "Hungary",
+        "abbreviation": "HU",
+        "calling_code": "36",
+        "capital_city": "Budapest",
+        "continent": "Europe"
+    },
+    {
+        "country": "Iceland",
+        "abbreviation": "IS",
+        "calling_code": "354",
+        "capital_city": "Reykjav",
+        "continent": "Europe"
+    },
+    {
+        "country": "India",
+        "abbreviation": "IN",
+        "calling_code": "91",
+        "capital_city": "New Delhi",
+        "continent": "Asia"
+    },
+    {
+        "country": "Indonesia",
+        "abbreviation": "ID",
+        "calling_code": "62",
+        "capital_city": "Jakarta",
+        "continent": "Asia"
+    },
+    {
+        "country": "Iran",
+        "abbreviation": "IR",
+        "calling_code": "98",
+        "capital_city": "Tehran",
+        "continent": "Asia"
+    },
+    {
+        "country": "Iraq",
+        "abbreviation": "IQ",
+        "calling_code": "964",
+        "capital_city": "Baghdad",
+        "continent": "Asia"
+    },
+    {
+        "country": "Ireland",
+        "abbreviation": "IE",
+        "calling_code": "353",
+        "capital_city": "Dublin",
+        "continent": "Europe"
+    },
+    {
+        "country": "Israel",
+        "abbreviation": "IL",
+        "calling_code": "972",
+        "capital_city": "Jerusalem",
+        "continent": "Asia"
+    },
+    {
+        "country": "Italy",
+        "abbreviation": "IT",
+        "calling_code": "39",
+        "capital_city": "Roma",
+        "continent": "Europe"
+    },
+    {
+        "country": "Ivory Coast",
+        "abbreviation": "CI",
+        "calling_code": "225",
+        "capital_city": "Yamoussoukro",
+        "continent": "Africa"
+    },
+    {
+        "country": "Jamaica",
+        "abbreviation": "JM",
+        "calling_code": "1876",
+        "capital_city": "Kingston",
+        "continent": "North America"
+    },
+    {
+        "country": "Japan",
+        "abbreviation": "JP",
+        "calling_code": "81",
+        "capital_city": "Tokyo",
+        "continent": "Asia"
+    },
+    {
+        "country": "Jordan",
+        "abbreviation": "JO",
+        "calling_code": "962",
+        "capital_city": "Amman",
+        "continent": "Asia"
+    },
+    {
+        "country": "Kazakhstan",
+        "abbreviation": "KZ",
+        "calling_code": "7",
+        "capital_city": "Astana"
+    },
+    {
+        "country": "Kenya",
+        "abbreviation": "KE",
+        "calling_code": "254",
+        "capital_city": "Nairobi",
+        "continent": "Africa"
+    },
+    {
+        "country": "Kiribati",
+        "abbreviation": "KI",
+        "calling_code": "686",
+        "capital_city": "Bairiki",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Kuwait",
+        "abbreviation": "KW",
+        "calling_code": "965",
+        "capital_city": "Kuwait",
+        "continent": "Asia"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "abbreviation": "KG",
+        "calling_code": "996",
+        "capital_city": "Bishkek",
+        "continent": "Asia"
+    },
+    {
+        "country": "Laos",
+        "abbreviation": "LA",
+        "calling_code": "856",
+        "capital_city": "Vientiane",
+        "continent": "Asia"
+    },
+    {
+        "country": "Latvia",
+        "abbreviation": "LV",
+        "calling_code": "371",
+        "capital_city": "Riga",
+        "continent": "Europe"
+    },
+    {
+        "country": "Lebanon",
+        "abbreviation": "LB",
+        "calling_code": "961",
+        "capital_city": "Beirut",
+        "continent": "Asia"
+    },
+    {
+        "country": "Lesotho",
+        "abbreviation": "LS",
+        "calling_code": "266",
+        "capital_city": "Maseru",
+        "continent": "Africa"
+    },
+    {
+        "country": "Liberia",
+        "abbreviation": "LR",
+        "calling_code": "231",
+        "capital_city": "Monrovia",
+        "continent": "Africa"
+    },
+    {
+        "country": "Libyan Arab Jamahiriya",
+        "abbreviation": "LY",
+        "calling_code": null,
+        "capital_city": "Tripoli",
+        "continent": "Africa"
+    },
+    {
+        "country": "Liechtenstein",
+        "abbreviation": "LI",
+        "calling_code": "423",
+        "capital_city": "Vaduz",
+        "continent": "Europe"
+    },
+    {
+        "country": "Lithuania",
+        "abbreviation": "LT",
+        "calling_code": "370",
+        "capital_city": "Vilnius",
+        "continent": "Europe"
+    },
+    {
+        "country": "Luxembourg",
+        "abbreviation": "LU",
+        "calling_code": "352",
+        "capital_city": "Luxembourg [Luxemburg/L",
+        "continent": "Europe"
+    },
+    {
+        "country": "Macao",
+        "abbreviation": "MO",
+        "calling_code": null,
+        "capital_city": "Macao",
+        "continent": "Asia"
+    },
+    {
+        "country": "North Macedonia",
+        "abbreviation": "MK",
+        "calling_code": "389",
+        "capital_city": "Skopje",
+        "continent": "Europe"
+    },
+    {
+        "country": "Madagascar",
+        "abbreviation": "MG",
+        "calling_code": "261",
+        "capital_city": "Antananarivo",
+        "continent": "Africa"
+    },
+    {
+        "country": "Malawi",
+        "abbreviation": "MW",
+        "calling_code": "265",
+        "capital_city": "Lilongwe",
+        "continent": "Africa"
+    },
+    {
+        "country": "Malaysia",
+        "abbreviation": "MY",
+        "calling_code": "60",
+        "capital_city": "Kuala Lumpur",
+        "continent": "Asia"
+    },
+    {
+        "country": "Maldives",
+        "abbreviation": "MV",
+        "calling_code": "960",
+        "capital_city": "Male",
+        "continent": "Asia"
+    },
+    {
+        "country": "Mali",
+        "abbreviation": "ML",
+        "calling_code": "223",
+        "capital_city": "Bamako",
+        "continent": "Africa"
+    },
+    {
+        "country": "Malta",
+        "abbreviation": "MT",
+        "calling_code": "356",
+        "capital_city": "Valletta",
+        "continent": "Europe"
+    },
+    {
+        "country": "Marshall Islands",
+        "abbreviation": "MH",
+        "calling_code": "692",
+        "capital_city": "Dalap-Uliga-Darrit",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Martinique",
+        "abbreviation": "MQ",
+        "calling_code": "596",
+        "capital_city": "Fort-de-France",
+        "continent": "North America"
+    },
+    {
+        "country": "Mauritania",
+        "abbreviation": "MR",
+        "calling_code": "222",
+        "capital_city": "Nouakchott",
+        "continent": "Africa"
+    },
+    {
+        "country": "Mauritius",
+        "abbreviation": "MU",
+        "calling_code": "230",
+        "capital_city": "Port-Louis",
+        "continent": "Africa"
+    },
+    {
+        "country": "Mayotte",
+        "abbreviation": "YT",
+        "calling_code": "262",
+        "capital_city": "Mamoutzou",
+        "continent": "Africa"
+    },
+    {
+        "country": "Mexico",
+        "abbreviation": "MX",
+        "calling_code": "52",
+        "capital_city": "Ciudad de M",
+        "continent": "North America"
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "abbreviation": "FM",
+        "calling_code": "691",
+        "capital_city": "Palikir"
+    },
+    {
+        "country": "Moldova",
+        "abbreviation": "MD",
+        "calling_code": "373",
+        "capital_city": "Chisinau",
+        "continent": "Europe"
+    },
+    {
+        "country": "Monaco",
+        "abbreviation": "MC",
+        "calling_code": "377",
+        "capital_city": "Monaco-Ville",
+        "continent": "Europe"
+    },
+    {
+        "country": "Mongolia",
+        "abbreviation": "MN",
+        "calling_code": "976",
+        "capital_city": "Ulan Bator",
+        "continent": "Asia"
+    },
+    {
+        "country": "Montserrat",
+        "abbreviation": "MS",
+        "calling_code": "1664",
+        "capital_city": "Plymouth",
+        "continent": "North America"
+    },
+    {
+        "country": "Morocco",
+        "abbreviation": "MA",
+        "calling_code": "212",
+        "capital_city": "Rabat",
+        "continent": "Africa"
+    },
+    {
+        "country": "Mozambique",
+        "abbreviation": "MZ",
+        "calling_code": "258",
+        "capital_city": "Maputo",
+        "continent": "Africa"
+    },
+    {
+        "country": "Myanmar",
+        "abbreviation": "MM",
+        "calling_code": "95",
+        "capital_city": "Rangoon (Yangon)",
+        "continent": "Asia"
+    },
+    {
+        "country": "Namibia",
+        "abbreviation": "NA",
+        "calling_code": "264",
+        "capital_city": "Windhoek",
+        "continent": "Africa"
+    },
+    {
+        "country": "Nauru",
+        "abbreviation": "NR",
+        "calling_code": "674",
+        "capital_city": "Yaren",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Nepal",
+        "abbreviation": "NP",
+        "calling_code": "977",
+        "capital_city": "Kathmandu",
+        "continent": "Asia"
+    },
+    {
+        "country": "Netherlands",
+        "abbreviation": "NL",
+        "calling_code": "31",
+        "capital_city": "Amsterdam",
+        "continent": "Europe"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "abbreviation": "AN",
+        "calling_code": null,
+        "capital_city": "Willemstad",
+        "continent": "North America"
+    },
+    {
+        "country": "New Caledonia",
+        "abbreviation": "NC",
+        "calling_code": "687",
+        "capital_city": "Noum",
+        "continent": "Oceania"
+    },
+    {
+        "country": "New Zealand",
+        "abbreviation": "NZ",
+        "calling_code": "64",
+        "capital_city": "Wellington",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Nicaragua",
+        "abbreviation": "NI",
+        "calling_code": "505",
+        "capital_city": "Managua",
+        "continent": "North America"
+    },
+    {
+        "country": "Niger",
+        "abbreviation": "NE",
+        "calling_code": "227",
+        "capital_city": "Niamey",
+        "continent": "Africa"
+    },
+    {
+        "country": "Nigeria",
+        "abbreviation": "NG",
+        "calling_code": "234",
+        "capital_city": "Abuja",
+        "continent": "Africa"
+    },
+    {
+        "country": "Niue",
+        "abbreviation": "NU",
+        "calling_code": "683",
+        "capital_city": "Alofi",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Norfolk Island",
+        "abbreviation": "NF",
+        "calling_code": "672",
+        "capital_city": "Kingston",
+        "continent": "Oceania"
+    },
+    {
+        "country": "North Korea",
+        "abbreviation": "KP",
+        "calling_code": null,
+        "capital_city": "Pyongyang",
+        "continent": "Asia"
+    },
+    {
+        "country": "Northern Ireland",
+        "abbreviation": "GB",
+        "calling_code": null,
+        "capital_city": "Belfast"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "abbreviation": "MP",
+        "calling_code": "1670",
+        "capital_city": "Garapan",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Norway",
+        "abbreviation": "NO",
+        "calling_code": "47",
+        "capital_city": "Oslo",
+        "continent": "Europe"
+    },
+    {
+        "country": "Oman",
+        "abbreviation": "OM",
+        "calling_code": "968",
+        "capital_city": "Masqat",
+        "continent": "Asia"
+    },
+    {
+        "country": "Pakistan",
+        "abbreviation": "PK",
+        "calling_code": "92",
+        "capital_city": "Islamabad",
+        "continent": "Asia"
+    },
+    {
+        "country": "Palau",
+        "abbreviation": "PW",
+        "calling_code": "680",
+        "capital_city": "Koror",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Palestine",
+        "abbreviation": "PS",
+        "calling_code": null,
+        "capital_city": "Gaza",
+        "continent": "Asia"
+    },
+    {
+        "country": "Panama",
+        "abbreviation": "PA",
+        "calling_code": "507",
+        "capital_city": "Ciudad de Panam",
+        "continent": "North America"
+    },
+    {
+        "country": "Papua New Guinea",
+        "abbreviation": "PG",
+        "calling_code": "675",
+        "capital_city": "Port Moresby",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Paraguay",
+        "abbreviation": "PY",
+        "calling_code": "595",
+        "capital_city": "Asunci",
+        "continent": "South America"
+    },
+    {
+        "country": "Peru",
+        "abbreviation": "PE",
+        "calling_code": "51",
+        "capital_city": "Lima",
+        "continent": "South America"
+    },
+    {
+        "country": "Philippines",
+        "abbreviation": "PH",
+        "calling_code": "63",
+        "capital_city": "Manila",
+        "continent": "Asia"
+    },
+    {
+        "country": "Pitcairn",
+        "abbreviation": "PN",
+        "calling_code": null,
+        "capital_city": "Adamstown",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Poland",
+        "abbreviation": "PL",
+        "calling_code": "48",
+        "capital_city": "Warszawa",
+        "continent": "Europe"
+    },
+    {
+        "country": "Portugal",
+        "abbreviation": "PT",
+        "calling_code": "351",
+        "capital_city": "Lisboa",
+        "continent": "Europe"
+    },
+    {
+        "country": "Puerto Rico",
+        "abbreviation": "PR",
+        "calling_code": "1939",
+        "capital_city": "San Juan",
+        "continent": "North America"
+    },
+    {
+        "country": "Qatar",
+        "abbreviation": "QA",
+        "calling_code": "974",
+        "capital_city": "Doha",
+        "continent": "Asia"
+    },
+    {
+        "country": "Reunion",
+        "abbreviation": "RE",
+        "calling_code": "262",
+        "capital_city": "Saint-Denis",
+        "continent": "Africa"
+    },
+    {
+        "country": "Romania",
+        "abbreviation": "RO",
+        "calling_code": "40",
+        "capital_city": "Bucuresti",
+        "continent": "Europe"
+    },
+    {
+        "country": "Russian Federation",
+        "abbreviation": "RU",
+        "calling_code": "7",
+        "capital_city": "Moscow",
+        "continent": "Europe"
+    },
+    {
+        "country": "Rwanda",
+        "abbreviation": "RW",
+        "calling_code": "250",
+        "capital_city": "Kigali",
+        "continent": "Africa"
+    },
+    {
+        "country": "Saint Helena",
+        "abbreviation": "SH",
+        "calling_code": "290",
+        "capital_city": "Jamestown",
+        "continent": "Africa"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "abbreviation": "KN",
+        "calling_code": "1869",
+        "capital_city": "Basseterre",
+        "continent": "North America"
+    },
+    {
+        "country": "Saint Lucia",
+        "abbreviation": "LC",
+        "calling_code": "1758",
+        "capital_city": "Castries",
+        "continent": "North America"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "abbreviation": "PM",
+        "calling_code": "508",
+        "capital_city": "Saint-Pierre",
+        "continent": "North America"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "abbreviation": "VC",
+        "calling_code": "1784",
+        "capital_city": "Kingstown",
+        "continent": "North America"
+    },
+    {
+        "country": "Samoa",
+        "abbreviation": "WS",
+        "calling_code": "685",
+        "capital_city": "Apia",
+        "continent": "Oceania"
+    },
+    {
+        "country": "San Marino",
+        "abbreviation": "SM",
+        "calling_code": "378",
+        "capital_city": "San Marino",
+        "continent": "Europe"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "abbreviation": "ST",
+        "calling_code": "239",
+        "capital_city": "S",
+        "continent": "Africa"
+    },
+    {
+        "country": "Saudi Arabia",
+        "abbreviation": "SA",
+        "calling_code": "966",
+        "capital_city": "Riyadh",
+        "continent": "Asia"
+    },
+    {
+        "country": "Scotland",
+        "abbreviation": "UK",
+        "calling_code": null,
+        "capital_city": "Edinburgh"
+    },
+    {
+        "country": "Senegal",
+        "abbreviation": "SN",
+        "calling_code": "221",
+        "capital_city": "Dakar",
+        "continent": "Africa"
+    },
+    {
+        "country": "Seychelles",
+        "abbreviation": "SC",
+        "calling_code": "248",
+        "capital_city": "Victoria",
+        "continent": "Africa"
+    },
+    {
+        "country": "Sierra Leone",
+        "abbreviation": "SL",
+        "calling_code": "232",
+        "capital_city": "Freetown",
+        "continent": "Africa"
+    },
+    {
+        "country": "Singapore",
+        "abbreviation": "SG",
+        "calling_code": "65",
+        "capital_city": "Singapore",
+        "continent": "Asia"
+    },
+    {
+        "country": "Slovakia",
+        "abbreviation": "SK",
+        "calling_code": "421",
+        "capital_city": "Bratislava",
+        "continent": "Europe"
+    },
+    {
+        "country": "Slovenia",
+        "abbreviation": "SI",
+        "calling_code": "386",
+        "capital_city": "Ljubljana",
+        "continent": "Europe"
+    },
+    {
+        "country": "Solomon Islands",
+        "abbreviation": "SB",
+        "calling_code": "677",
+        "capital_city": "Honiara",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Somalia",
+        "abbreviation": "SO",
+        "calling_code": "252",
+        "capital_city": "Mogadishu",
+        "continent": "Africa"
+    },
+    {
+        "country": "South Africa",
+        "abbreviation": "ZA",
+        "calling_code": "27",
+        "capital_city": "Pretoria",
+        "continent": "Africa"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "abbreviation": "GS",
+        "calling_code": "500",
+        "continent": "Antarctica"
+    },
+    {
+        "country": "South Korea",
+        "abbreviation": "KR",
+        "calling_code": null,
+        "capital_city": "Seoul",
+        "continent": "Asia"
+    },
+    {
+        "country": "South Sudan",
+        "abbreviation": "SS",
+        "calling_code": "211",
+        "capital_city": "Juba",
+        "continent": "Africa"
+    },
+    {
+        "country": "Spain",
+        "abbreviation": "ES",
+        "calling_code": "34",
+        "capital_city": "Madrid",
+        "continent": "Europe"
+    },
+    {
+        "country": "SriLanka",
+        "abbreviation": "LK",
+        "calling_code": null
+    },
+    {
+        "country": "Sudan",
+        "abbreviation": "SD",
+        "calling_code": "249",
+        "capital_city": "Khartum",
+        "continent": "Africa"
+    },
+    {
+        "country": "Suriname",
+        "abbreviation": "SR",
+        "calling_code": "597",
+        "capital_city": "Paramaribo",
+        "continent": "South America"
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "abbreviation": "SJ",
+        "calling_code": null,
+        "capital_city": "Longyearbyen",
+        "continent": "Europe"
+    },
+    {
+        "country": "Swaziland",
+        "abbreviation": "SZ",
+        "calling_code": "268",
+        "capital_city": "Mbabane",
+        "continent": "Africa"
+    },
+    {
+        "country": "Sweden",
+        "abbreviation": "SE",
+        "calling_code": "46",
+        "capital_city": "Stockholm",
+        "continent": "Europe"
+    },
+    {
+        "country": "Switzerland",
+        "abbreviation": "CH",
+        "calling_code": "41",
+        "capital_city": "Bern",
+        "continent": "Europe"
+    },
+    {
+        "country": "Syria",
+        "abbreviation": "SY",
+        "calling_code": "963",
+        "capital_city": "Damascus",
+        "continent": "Asia"
+    },
+    {
+        "country": "Tajikistan",
+        "abbreviation": "TJ",
+        "calling_code": "992",
+        "capital_city": "Dushanbe",
+        "continent": "Asia"
+    },
+    {
+        "country": "Tanzania",
+        "abbreviation": "TZ",
+        "calling_code": "255",
+        "capital_city": "Dodoma",
+        "continent": "Africa"
+    },
+    {
+        "country": "Thailand",
+        "abbreviation": "TH",
+        "calling_code": "66",
+        "capital_city": "Bangkok",
+        "continent": "Asia"
+    },
+    {
+        "country": "The Democratic Republic of Congo",
+        "abbreviation": "CD",
+        "calling_code": null
+    },
+    {
+        "country": "Togo",
+        "abbreviation": "TG",
+        "calling_code": "228",
+        "capital_city": "Lom",
+        "continent": "Africa"
+    },
+    {
+        "country": "Tokelau",
+        "abbreviation": "TK",
+        "calling_code": "690",
+        "capital_city": "Fakaofo",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Tonga",
+        "abbreviation": "TO",
+        "calling_code": "676",
+        "capital_city": "Nuku'alofa",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "abbreviation": "TT",
+        "calling_code": "1868",
+        "capital_city": "Port-of-Spain",
+        "continent": "North America"
+    },
+    {
+        "country": "Tunisia",
+        "abbreviation": "TN",
+        "calling_code": "216",
+        "capital_city": "Tunis",
+        "continent": "Africa"
+    },
+    {
+        "country": "Turkey",
+        "abbreviation": "TR",
+        "calling_code": "90",
+        "capital_city": "Ankara",
+        "continent": "Asia"
+    },
+    {
+        "country": "Turkmenistan",
+        "abbreviation": "TM",
+        "calling_code": "993",
+        "capital_city": "Ashgabat",
+        "continent": "Asia"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "abbreviation": "TC",
+        "calling_code": "1649",
+        "capital_city": "Cockburn Town",
+        "continent": "North America"
+    },
+    {
+        "country": "Tuvalu",
+        "abbreviation": "TV",
+        "calling_code": "688",
+        "capital_city": "Funafuti",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Uganda",
+        "abbreviation": "UG",
+        "calling_code": "256",
+        "capital_city": "Kampala",
+        "continent": "Africa"
+    },
+    {
+        "country": "Ukraine",
+        "abbreviation": "UA",
+        "calling_code": "380",
+        "capital_city": "Kyiv",
+        "continent": "Europe"
+    },
+    {
+        "country": "United Arab Emirates",
+        "abbreviation": "AE",
+        "calling_code": "971",
+        "capital_city": "Abu Dhabi",
+        "continent": "Asia"
+    },
+    {
+        "country": "United Kingdom",
+        "abbreviation": "GB",
+        "calling_code": "44",
+        "capital_city": "London",
+        "continent": "Europe"
+    },
+    {
+        "country": "United States",
+        "abbreviation": "US",
+        "calling_code": "1",
+        "capital_city": "Washington",
+        "continent": "North America"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "abbreviation": "UM",
+        "calling_code": null,
+        "continent": "Oceania"
+    },
+    {
+        "country": "Uruguay",
+        "abbreviation": "UY",
+        "calling_code": "598",
+        "capital_city": "Montevideo",
+        "continent": "South America"
+    },
+    {
+        "country": "Uzbekistan",
+        "abbreviation": "UZ",
+        "calling_code": "998",
+        "capital_city": "Toskent",
+        "continent": "Asia"
+    },
+    {
+        "country": "Vanuatu",
+        "abbreviation": "VU",
+        "calling_code": "678",
+        "capital_city": "Port-Vila",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Venezuela",
+        "abbreviation": "VE",
+        "calling_code": "58",
+        "capital_city": "Caracas",
+        "continent": "South America"
+    },
+    {
+        "country": "Vietnam",
+        "abbreviation": "VN",
+        "calling_code": "84",
+        "capital_city": "Hanoi",
+        "continent": "Asia"
+    },
+    {
+        "country": "Virgin Islands, British",
+        "abbreviation": "VG",
+        "calling_code": null,
+        "capital_city": "Road Town"
+    },
+    {
+        "country": "Virgin Islands, U.S.",
+        "abbreviation": "VI",
+        "calling_code": null,
+        "capital_city": "Charlotte Amalie"
+    },
+    {
+        "country": "Wales",
+        "abbreviation": "UK",
+        "calling_code": null,
+        "capital_city": "Cardiff"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "abbreviation": "WF",
+        "calling_code": "681",
+        "capital_city": "Mata-Utu",
+        "continent": "Oceania"
+    },
+    {
+        "country": "Western Sahara",
+        "abbreviation": "EH",
+        "calling_code": null,
+        "capital_city": "El-Aai",
+        "continent": "Africa"
+    },
+    {
+        "country": "Yemen",
+        "abbreviation": "YE",
+        "calling_code": "967",
+        "capital_city": "Sanaa",
+        "continent": "Asia"
+    },
+    {
+        "country": "Yugoslavia",
+        "abbreviation": "YU",
+        "calling_code": null,
+        "capital_city": "Beograd",
+        "continent": "Europe"
+    },
+    {
+        "country": "Zambia",
+        "abbreviation": "ZM",
+        "calling_code": "260",
+        "capital_city": "Lusaka",
+        "continent": "Africa"
+    },
+    {
+        "country": "Zimbabwe",
+        "abbreviation": "ZW",
+        "calling_code": "263",
+        "capital_city": "Harare",
+        "continent": "Africa"
+    }
+]
